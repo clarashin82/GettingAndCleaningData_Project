@@ -1,13 +1,9 @@
 # GettingAndCleaningData_Project
-This is a repository containing Course Project of Getting and Cleaning Data Course.
-
-
+This is a repository containing Course Project of Getting and Cleaning Data Course. 
 The data is collected from the accelerometers from the Samsung Galaxy S smartphone.
-
 The goal of the project is to merge and label the data to get a tidy data set.
 
 The raw data is consisted of various test and training data sets.
-
 
 run_analysis.R does the following:
 
